@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+//override margin on email field, so the error is directly attached
+
+input[type="email"] {
+  margin-bottom: 0;
+}
