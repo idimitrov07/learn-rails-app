@@ -1,2 +1,2 @@
 == Learn Rails Tutorial Application
-Learning Rails with RailsApp project
+Learning Rails with RailsApp project!
